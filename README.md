@@ -1,6 +1,6 @@
 # Photoshop-Export-Layer-Coordinates
 
-Photoshop 的 JSX 脚本，用于导出图层 XY 坐标到 TXT 文件（适配PS2019，修复了坐标不全、中文乱码问题）
+Photoshop 的 JSX 脚本，用于导出图层 XY 坐标到 TXT 文件
 
 
 ## 1. 安装步骤
@@ -24,7 +24,7 @@ Photoshop 的 JSX 脚本，用于导出图层 XY 坐标到 TXT 文件（适配PS
 
 - # Photoshop-Export-Layer-Coordinates
 
-A JSX script for Photoshop that exports layer X/Y coordinates to a TXT file (compatible with Photoshop 2019, fixes incomplete coordinates and Chinese garbled text issues)
+A JSX script for Photoshop that exports layer X/Y coordinates to a TXT file
 
 
 ## 1. Installation Steps
